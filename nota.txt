@@ -1,0 +1,10 @@
+
+========================
+   Nota of the shop
+========================
+- Your Item name       :blackpink
+- Your Item price      :320.0
+- Your Item Quantity   :2.0
+- Your Total of Money  :500.0
+- Your Total of Channge :IDR-140.0
+========================
